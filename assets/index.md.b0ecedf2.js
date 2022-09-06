@@ -1,0 +1,8 @@
+import{_ as s,c as a,o as n,a as e}from"./app.d0c63e2b.js";const y=JSON.parse('{"title":"Hello VitePress","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}'),l={name:"index.md"},p=e(`<h1 id="hello-vitepress" tabindex="-1">Hello VitePress <a class="header-anchor" href="#hello-vitepress" aria-hidden="true">#</a></h1><div class="tip custom-block"><p class="custom-block-title">TIP</p><p>This is a demo by Phantasus_.</p></div><div class="language-cpp"><button class="copy"></button><span class="lang">cpp</span><pre><code><span class="line"><span style="color:#89DDFF;">#include</span><span style="color:#89DDFF;">&lt;</span><span style="color:#C3E88D;">bits/stdc++.h</span><span style="color:#89DDFF;">&gt;</span></span>
+<span class="line"><span style="color:#F78C6C;">using</span><span style="color:#A6ACCD;"> </span><span style="color:#C792EA;">namespace</span><span style="color:#A6ACCD;"> </span><span style="color:#FFCB6B;">std</span></span>
+<span class="line"><span style="color:#A6ACCD;">int main()</span></span>
+<span class="line"><span style="color:#A6ACCD;">{</span></span>
+<span class="line highlighted"><span style="color:#A6ACCD;">    while(1) rp++</span><span style="color:#89DDFF;">;</span></span>
+<span class="line"><span style="color:#A6ACCD;">    </span><span style="color:#89DDFF;">return</span><span style="color:#A6ACCD;"> </span><span style="color:#F78C6C;">0</span><span style="color:#89DDFF;">;</span></span>
+<span class="line"><span style="color:#A6ACCD;">}</span></span>
+<span class="line"></span></code></pre></div>`,3),o=[p];function t(c,r,i,d,_,C){return n(),a("div",null,o)}const h=s(l,[["render",t]]);export{y as __pageData,h as default};
